@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">App</string>
+
+    <string name="navbar_inicio">Inicio</string>
+    <string name="navbar_descargas">Descargas</string>
+    <string name="navbar_premium">Premium</string>
+    <string name="navbar_help">Ayuda</string>
+    <string name="navbar_info">Información</string>
+
+
+    <string name="textview_inicio">Estoy en el inicio</string>
+    <string name="textview_descargas">Estoy las descargas</string>
+    <string name="textview_premium">Estoy el premium</string>
+    <string name="textview_ayuda">Estoy en las ayudas</string>
+    <string name="textview_informacion">Estoy en las informaciones</string>
+</resources>
