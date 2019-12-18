@@ -13,4 +13,9 @@
     <string name="textview_premium">Estoy el premium</string>
     <string name="textview_ayuda">Estoy en las ayudas</string>
     <string name="textview_informacion">Estoy en las informaciones</string>
+
+    <string name="description_img_ayuda">Background el fragment ayuda</string>
+
+
+    <string name="btn_centro_de_ayuda">Centro de ayuda</string>
 </resources>

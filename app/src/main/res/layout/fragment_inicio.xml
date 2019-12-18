@@ -4,12 +4,9 @@
     android:layout_width="match_parent" android:layout_height="match_parent"
     android:background="@color/blanco">
 
-    <TextView
-        android:id="@+id/textview_inicio"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_centerInParent="true"
-        android:drawableBottom="@drawable/build"
-        android:text="@string/textview_inicio"
-        android:textSize="30dp" />
+    <ImageView
+        android:id="@+id/imgview_inicio"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:srcCompat="@drawable/inicio" />
 </RelativeLayout>
